@@ -1,9 +1,19 @@
+# Local-Chatbox
+
 This program is a local network chatbox. It uses the built-in
 standard library python modules: socket, _thread, and pickle
 
 It also uses tkinter for the GUI.
 Note: The Tkinter module should come with your python3 installation,
 if not then you will need to install this dependency.
+
+An example of usage:
+![](Chatbox.gif)
+
+Yes, I was talking to myself for "testing purposes".  Don't worry, you 
+don't have to do the same. You can run client.py on any computer in your 
+network and talk to your friends, family, strangers, or anyone else
+on the network and can connect. 
 
 How to Setup
 -----------
